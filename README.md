@@ -4,7 +4,7 @@
 
 Jubify es un protocolo de jubilación descentralizado con inteligencia artificial on-chain. Cualquier persona puede construir su fondo de retiro desde su email, sin wallet, sin conocimientos de crypto, y sin depender de ningún Estado o institución financiera.
 
-**Hackathon Aleph — Crecimiento 2026 · Tracks: GenLayer + Avalanche**
+**Hackathon Aleph — Crecimiento 2026 · Tracks: GenLayer + Avalanche + PL**
 
 ---
 
@@ -91,7 +91,7 @@ Usuario (email / wallet)
 
 | Contrato | Red | Dirección |
 |---|---|---|
-| RetiroVault.sol | Avalanche Fuji Testnet | `0x...` |
+| JubifyVault.sol | Avalanche Fuji Testnet | `0xc412Ee4323B11F76df3D96FD11BB74e2d2E26886` |
 | RetiroAI.py | GenLayer Testnet | `0x...` |
 
 ---

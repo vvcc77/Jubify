@@ -92,7 +92,7 @@ Usuario (email / wallet)
 | Contrato | Red | Dirección |
 |---|---|---|
 | JubifyVault.sol | Avalanche Fuji Testnet | `0xc412Ee4323B11F76df3D96FD11BB74e2d2E26886` |
-| RetiroAI.py | GenLayer Testnet | `0x...` |
+| JubifyAI.py | GenLayer Testnet | `0x166509bca3ABe1275041884331D391ACFd723418` |
 
 ---
 
